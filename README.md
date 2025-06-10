@@ -35,8 +35,9 @@ CertiShelf is a secure and easy-to-use platform designed to help individuals and
 ## Image
 
 <div align="center" >
- <img src = "public/869ad615-7e99-45c6-9671-003b0b3e2533.jpg" width="400px" 
- 
+
+<img src = "public/869ad615-7e99-45c6-9671-003b0b3e2533.jpg" width="400px"/>
+
 </div>
 
 ## Installation
